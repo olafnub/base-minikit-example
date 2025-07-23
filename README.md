@@ -1,4 +1,4 @@
-# MiniKit Template
+# MiniKit Template (UNEDITED, besides these five words)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-onchain --mini`](), configured with:
 
